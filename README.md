@@ -1,7 +1,7 @@
 # RINA
-Rina is an AI agent Build with [rig](https://github.com/0xPlaygrounds/rig/)
+Asuka is an AI agent Built with [rig](https://github.com/0xPlaygrounds/rig/) and a fork of [Rina](https://github.com/cornip/Rina)
 
-[TWITTER](https://x.com/Rina_RIG)
+[TWITTER](https://x.com/Asuka_RIG)
 
 ## Added Features
 
